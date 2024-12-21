@@ -1,0 +1,16 @@
+installed modules
+1) mini-svg-data-uri
+2)tailwindcss-animate
+3)react-icons
+
+
+similar to bootsrap , Accernity ui is used 
+**components of Accernity used Accernity(this all are installed in the ui folder and applied to components, each page), linked to utils->cn  
+** and in each component using classname CSS is applied
+1)spotlight
+2)textgenrating effect
+3)magicbutton
+4)floating navbar 
+
+
+//ui installed
